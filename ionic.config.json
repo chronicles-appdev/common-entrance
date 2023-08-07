@@ -1,0 +1,7 @@
+{
+  "name": "common-entrance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
