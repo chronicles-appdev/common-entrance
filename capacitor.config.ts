@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'common-entrance',
+  appId: 'successbox.igcse.common-entrance',
+  appName: 'Common Entrance',
   webDir: 'www',
   server: {
     androidScheme: 'https'
